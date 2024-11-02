@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayeheaxo.github.io/FPJ/sitemap_index.txt
+Sitemap: https://ayeheaxo.github.io/JaQ/sitemap_index.txt
+Sitemap: https://ayeheaxo.github.io/lIE/sitemap_index.txt
+Sitemap: https://ayeheaxo.github.io/xGg/sitemap_index.txt
